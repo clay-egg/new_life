@@ -38,6 +38,7 @@ export const metadata: Metadata = {
     description: "Your personalized AI-powered travel companion for simplified and smart travel planning",
     images: ['https://new-life-ai.vercel.app/preview.png'],
   },
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
